@@ -42,6 +42,5 @@ I'm passionate about building scalable, modern web applications — from creatin
 - Efficient database design and integration (SQL/NoSQL)
 - Smooth deployments on platforms like Vercel & Render
 - Building complete full-stack applications from scratch
-hide_border=true">
 
 </div>
